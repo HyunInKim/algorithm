@@ -1,28 +1,35 @@
 package Participant;
 
 import java.util.*;
+
+class participants{
+	public String solution(String[] participant,String[] completion) {
+		Arrays.sort(participant);
+		Arrays.sort(completion);
+		
+		int a = participant.length; //4	
+		int i =0;
+		ArrayList<String> list = new ArrayList<String>();
+		
+		for(i=0;i<a-1;i++) {
+			if(!participant[i].equals(completion[i])) {
+				
+				return participant[i];
+			}
+		}
+		return participant[i];
+       
+	}
+		
+}
+
 public class Solution {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String[] participants = {"marina", "marina", "nikola", "vinko", "filipa"};
-		String[] completion = {"josipa", "filipa","nikola","vinko"};
-		String answer = "";
-		
-		Arrays.sort(participants);
-		Arrays.sort(completion);
-		
-		int a = completion.length; //4		
-		ArrayList<String> list = new ArrayList<String>();
-		
-		for(int i=0;i<a-1;i++) {
-			if(!participants[i].equals(completion[i])) {
-				list.add(participants[i]);
-				}
-		}
-		
-        System.out.println(list);
-       
+		String[] completion = {"marina", "filipa","nikola","vinko"};
+		participants part= new participants();
+		System.out.println(part.solution(participants,completion));
 	}
 
 }
