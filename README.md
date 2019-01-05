@@ -9,4 +9,4 @@
 3. [프로그래머스 - 문자열 내 마음대로 정하기 - JAVA](https://github.com/HyunInKim/algorithm/blob/master/src/String_sort/Solution.java)
 >##### 3_1.[문제해석](http://bigzoo.tistory.com/18)
 4. [프로그래머스 - K번째 수 - JAVA](https://github.com/HyunInKim/algorithm/tree/master/src/Kth_number/Solution.java)
->####  4_1.[문제해석](http://bigzoo.tistory.com/17)
+>##### 4_1.[문제해석](http://bigzoo.tistory.com/17)
