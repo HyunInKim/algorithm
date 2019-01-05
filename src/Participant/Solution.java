@@ -7,10 +7,8 @@ class participants{
 		Arrays.sort(participant);
 		Arrays.sort(completion);
 		
-		int a = participant.length; //4	
+		int a = completion.length; 	
 		int i =0;
-		ArrayList<String> list = new ArrayList<String>();
-		
 		for(i=0;i<a-1;i++) {
 			if(!participant[i].equals(completion[i])) {
 				
