@@ -1,4 +1,4 @@
-package SumOfMeasure;
+package SumOfDivisor;
 class solutions{
 	public int solution (int n) {
 		int answer = 0;
