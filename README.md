@@ -17,6 +17,6 @@
 6. [프로그래머스 - 가운데 글자 가져오기 - JAVA](https://github.com/HyunInKim/algorithm/blob/master/src/Get_Center_String/center_number.java)
 >##### 6.1.[문제해석](http://bigzoo.tistory.com/21)
 7. [프로그래머스 - 문자열 내 P와 Y의 개수](https://github.com/HyunInKim/algorithm/blob/master/src/count_of_P_between_Y/countpy.java)
->##### 7.1.[문제해석]()
+>##### 7.1.[]()
 8. [프로그래머스 - 문자열 내림차순으로 배치하기 - JAVA](https://github.com/HyunInKim/algorithm/commit/27bb1d10f6ba9f37e033af273e6476f215d467df)
->##### 8.1.[문제해석]()
+>##### 8.1.[]()
