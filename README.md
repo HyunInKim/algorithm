@@ -7,7 +7,6 @@
 2. [프로그래머스 - 완주하지 못한 선수 - JAVA](https://github.com/HyunInKim/algorithm/blob/master/src/Participant/Solution.java)
 >##### 2_1.[문제해석](http://bigzoo.tistory.com/19)
 2.1 [프로그래머스 - 완주하지 못한 선수 - JAVA(Hash)](https://github.com/HyunInKim/algorithm/blob/master/src/ParticipantUseHashMap/ParticipantuseHashMap.java)
->##### 2_2. [문제해석]()
 3. [프로그래머스 - 문자열 내 마음대로 정하기 - JAVA](https://github.com/HyunInKim/algorithm/blob/master/src/String_sort/Solution.java)
 >##### 3_1.[문제해석](http://bigzoo.tistory.com/18)
 4. [프로그래머스 - K번째 수 - JAVA](https://github.com/HyunInKim/algorithm/tree/master/src/Kth_number/Solution.java)
