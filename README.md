@@ -18,5 +18,12 @@
 >##### 6.1.[문제해석](http://bigzoo.tistory.com/21)
 7. [프로그래머스 - 문자열 내 P와 Y의 개수](https://github.com/HyunInKim/algorithm/blob/master/src/count_of_P_between_Y/countpy.java)
 >##### 7.1.[]()
-8. [프로그래머스 - 문자열 내림차순으로 배치하기 - JAVA](https://github.com/HyunInKim/algorithm/commit/27bb1d10f6ba9f37e033af273e6476f215d467df)
+8. [프로그래머스 - 문자열 내림차순으로 배치하기 - JAVA](https://github.com/HyunInKim/algorithm/blob/master/src/Descending_order/Descending.java)
 >##### 8.1.[]()
+9. [프로그래머스 - 소수 찾기(에라토스테네스의 체 - JAVA](https://github.com/HyunInKim/algorithm/blob/master/src/Prime_number/Prime.java)
+>##### 9.1.[]()
+10. [프로그래머스 - 시저 암호 - JAVA](https://github.com/HyunInKim/algorithm/blob/master/src/Password/pass2.java)
+>##### 10.1.[]()
+11. [프로그래머스 - 수박수박수박수박수... - JAVA](https://github.com/HyunInKim/algorithm/blob/master/src/WaterMelon/Water.java)
+>##### 11.1.[]()
+
