@@ -27,4 +27,6 @@
 >##### 10_1.[문제해석](http://bigzoo.tistory.com/25)
 11. [프로그래머스 - 수박수박수박수박수... - JAVA](https://github.com/HyunInKim/algorithm/blob/master/src/WaterMelon/Water.java)
 >##### 11_1.[문제해석](http://bigzoo.tistory.com/26)
+12. [프로그래머스 - 예산 - JAVA](https://github.com/HyunInKim/algorithm/blob/master/src/Budget/Money.java)
+>##### 12_1.[문제해석](http://bigzoo.tistory.com/27)
 
